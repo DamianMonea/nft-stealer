@@ -1,0 +1,7 @@
+{
+    "debug": false,
+    "download": "collections",
+    "per_collection": 10,
+    "collections": ["hapeprime", "karafuru", "azuki", "clonex", "boredapeyachtclub", "cryptopunks", "mutant-ape-yacht-club", "raidparty", "fancybearsmetaverseofficial", "gen-f", "doodles-official", "beans-dumb-ways-to-die", "genesis-creepz"],
+    "n_collections_to_download": 10
+}
